@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan Zaigam</h1>
 <h3 align="center">A passionate frontend developer and IIOT Engineer from India</h3>
 
-<img src="https://media.tenor.com/i3lImBg2UEQAAAAd/scaler-create-impact.gif" align="right" width="350" alt="coding" >
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width="100%" height="500" alt="coding" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanzaigam&label=Profile%20views&color=0e75b6&style=flat" alt="hasanzaigam" /> </p>
 
