@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Zaigam</h1>
-<h3 align="center">A passionate frontend developer and IIOT Engineer from India</h3>
+<h3 align="center">A passionate MERN & T3 Stack Developer and IIOT Engineer from India</h3>
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width="100%" height="500" alt="coding" >
 
