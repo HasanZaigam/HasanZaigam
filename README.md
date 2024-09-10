@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanzaigam" alt="hasanzaigam" /></a> </p>
 
-- 🔭 I’m currently 2nd year Student at [Guru Gobind Singh Indraprastha University](http://www.ipu.ac.in/)
+- 🔭 I’m currently 3nd year Student at [Guru Gobind Singh Indraprastha University](http://www.ipu.ac.in/)
 
 - 🌱 I’m currently learning **React.js,Backened Things.**
 
